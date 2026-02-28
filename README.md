@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Durga Prasad Keshri 👋
 
-<!--
-**Durga-Data-Analyst/Durga-Data-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst | SQL • Python • Power BI • Excel
 
-Here are some ideas to get you started:
+I transform raw data into actionable business insights through data cleaning, exploratory data analysis (EDA), and interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Focus Areas:
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- SQL Query Optimization
+- Dashboard Development
+- Business Insight Generation
+
+---
+
+## 🛠 Technical Skills
+
+### 💾 Databases & Querying
+- SQL (PostgreSQL, MySQL)
+- Joins, CTEs, Window Functions, Aggregations
+
+### 🐍 Programming
+- Python
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+
+### 📊 Data Visualization
+- Power BI(calculation using DAX Formula)
+- Excel (Pivot Tables, Power Query, Advanced Formulas)
+
+---
+
+## 📁 Featured Projects
+
+### 1️⃣ Food Delivery Data Analysis (SQL)
+- Designed relational database schema
+- Performed customer & revenue analysis
+- Identified peak order patterns
+- Generated business recommendations
+
+### 2️⃣ Sales Data Analysis using Python
+- Data cleaning & preprocessing
+- Correlation analysis
+- Visualization of revenue trends
+- Insight extraction using EDA techniques
+
+### 3️⃣ Interactive Sales Dashboard (Power BI)
+- Built KPI-driven dashboard
+- Revenue & profit tracking
+- Region-wise performance analysis
+
+(Projects will be added and updated regularly.)
+
+---
+
+## 📈 Current Goals
+- Strengthening advanced SQL skills
+- Building industry-level portfolio projects
+- Preparing for Data Analyst roles
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: keshidurgaprasad@gmail.com
+- 🌍 Location: Garhwa,India
+
