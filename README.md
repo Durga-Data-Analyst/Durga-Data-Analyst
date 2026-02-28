@@ -51,6 +51,14 @@ I transform raw data into actionable business insights through data cleaning, ex
 - Revenue & profit tracking
 - Region-wise performance analysis
 
+### 4⃣ Online Bookstore SQL Analysis Project
+Relational Database Design
+- Primary & Foreign Keys
+- Aggregation Functions
+- Join Operations
+- HAVING Clause
+- Window Functions
+- Business-Oriented SQL Analysis
 (Projects will be added and updated regularly.)
 
 ---
