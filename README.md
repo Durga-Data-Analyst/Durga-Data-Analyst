@@ -59,6 +59,22 @@ Relational Database Design
 - HAVING Clause
 - Window Functions
 - Business-Oriented SQL Analysis
+
+### 5️⃣ Stock Market Time Series Analysis(Python)
+- Time series data analysis
+- Data cleaning and preprocessing
+- Financial metric calculation
+- Rolling window analysis
+- Data visualization
+- Analytical storytelling
+
+### 6️⃣ IPL Data Analysis Using Python
+- Identify the most successful IPL teams based on match wins.
+- Analyze the impact of toss decisions on match results.
+- Find the top run scorers in IPL history.
+- Identify bowlers with the highest wicket counts.
+- Analyze seasonal scoring trends across IPL seasons.
+  
 (Projects will be added and updated regularly.)
 
 ---
