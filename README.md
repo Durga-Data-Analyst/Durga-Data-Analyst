@@ -101,6 +101,6 @@ Relational Database Design
 
 ## 📫 Connect With Me
 - 📧 Email: keshidurgaprasad@gmail.com
-- [in] Linkedin:in/durga-prasad-data-analyst
+- [in] Linkedin: in/durga-prasad-data-analyst
 - 🌍 Location: Garhwa,India
 
