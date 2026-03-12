@@ -74,6 +74,19 @@ Relational Database Design
 - Find the top run scorers in IPL history.
 - Identify bowlers with the highest wicket counts.
 - Analyze seasonal scoring trends across IPL seasons.
+
+### 7️⃣ HR Attrition Analysis Dashboard (Excel)
+- Employees working overtime show higher attrition rates.
+- Lower salary ranges experience higher employee turnover.
+- Certain departments show significantly higher attrition.
+- Most employees who leave have relatively fewer years at the company.
+
+### 8️⃣ Vrinda Store Sales Analysis Dashboard using Excel
+- Maharashtra generated the highest sales among all states.
+- Women customers contributed approximately 69% of total purchases.
+- Amazon was the largest order channel.
+- Most orders were successfully delivered (around 92%).
+- Sales showed strong performance in the early months of the year.
   
 (Projects will be added and updated regularly.)
 
